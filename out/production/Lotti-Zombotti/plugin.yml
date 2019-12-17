@@ -1,0 +1,9 @@
+name: Lotti-Zombotti
+author: B00tLoad_
+version: 0.0.1
+description: Lotti Karotti in Minecraft
+
+api-version: 1.15
+load: STARTUP
+
+main: de.filipzocktan.dev.paperspigot.lottizombotti.LottiZombottiGame
